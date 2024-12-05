@@ -60,3 +60,8 @@ h2 {
 #black {
   background-color: black;
 }
+#btn1 {
+  padding: 20px;
+  margin: 10px;
+  border-radius: 30px;
+}
